@@ -1,0 +1,14 @@
+Fichiers compilés
+.class
+
+Répertoire de build Eclipse
+/bin/
+
+Configuration Eclipse
+.project
+.classpath
+.settings/
+
+Fichiers système (macOS, Windows)
+.DS_Store
+Thumbs.db
