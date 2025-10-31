@@ -22,8 +22,14 @@ public class Main {
 		Bloc1 instance2Bloc1 = new Bloc1("Deuxieme appelle de la methode afficheDescriptions via l'instance Bloc1");
 		instance2Bloc1.afficheDescriptions();
     
-		Bloc2 instanceBloc2 = new Bloc2(2,3,4);
+		Bloc2 instanceBloc2 = new Bloc2(1,1,1);
 		instanceBloc2.afficheBloc2();
+		
+		BlocAEtendre instanceBlocAEtendre = new BlocAEtendre(2,2,2);
+		instanceBlocAEtendre.afficheBlocAEtendre();
+		
+		
+		
 	}
 
 }
