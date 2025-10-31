@@ -1,6 +1,7 @@
 package JAVA;
 
 public class BlocEncapsulation {
+	
 	//Declaration des variables.
         private int longueur;
         private int largeur;
@@ -21,12 +22,12 @@ public class BlocEncapsulation {
     	   
        }
        
-    //Methode public getter pour l'attrubut largeur.
+    //Methode public getter pour l'attribut largeur.
        public int getlargeur() {
     	   return largeur;
        }
        
-     //Methode public getter pour l'attrubut hauteur.
+     //Methode public getter pour l'attribut hauteur.
        public int gethauteur() {
     	   return hauteur;
        }

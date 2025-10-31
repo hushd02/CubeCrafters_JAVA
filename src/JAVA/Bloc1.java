@@ -3,7 +3,7 @@ package JAVA;
 public class Bloc1 {
 	String descriptions;
 	
-	//paramettrage du constructeur.
+//paramettrage du constructeur.
 	Bloc1(final String descriptions){
 		this.descriptions = descriptions;		
 	}
